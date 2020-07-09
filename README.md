@@ -4,4 +4,4 @@ I'm a rising third year computer science student and a startup enthusiast from M
 
 Feel free to follow me on [Twitter](https://twitter.com/SebastianCrossa) or connect over at [LinkedIn](https://www.linkedin.com/in/sebastiancrossa/).
 
-👉 You can learn more about me (on my website)[https://sebastiancrossa.com]
+👉 You can learn more about me [on my website](https://sebastiancrossa.com)
