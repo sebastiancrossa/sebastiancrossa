@@ -1,4 +1,4 @@
-# Heya, welcome to my Github profile
+# Heya, welcome to my Github profile 👋
 
 I'm a rising third year computer science student and a startup enthusiast from Mexico. I focus on creating full-stack web application with JavaScript. I'm currently working on [Kisana](https://kisana.co), an online marketplace for event spaces in Mexico.
 
