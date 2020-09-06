@@ -2,7 +2,7 @@
 
 I'm a rising third year computer science student and a startup enthusiast from Mexico. As of today I mainly focus on creating full-stack web application with JavaScript, but I love learning about and playing around with other languages like Rust. 
 
-I'm currently working on [Kisana](https://kisana.co), an online marketplace for event spaces in Mexico, as well as contributing to the [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli) tools as an [MLH Fellow](https://fellowship.mlh.io).
+I'm currently working on [Kisana](https://kisana.co), an online marketplace for event spaces in Mexico.
 
 Feel free to follow me on [Twitter](https://twitter.com/SebastianCrossa) or connect over at [LinkedIn](https://www.linkedin.com/in/sebastiancrossa/).
 
