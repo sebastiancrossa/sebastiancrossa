@@ -1,5 +1,3 @@
-# Heya, welcome to my Github profile 👋
-
 I'm a third year computer science student and a startup enthusiast from Mexico. As of today I mainly focus on creating full-stack web application with JavaScript, but I love learning about and playing around with other languages and technologies.
 
 Feel free to follow me on [Twitter](https://twitter.com/SebastianCrossa) or connect over at [LinkedIn](https://www.linkedin.com/in/sebastiancrossa/).
