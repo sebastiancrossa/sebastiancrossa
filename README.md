@@ -1,4 +1,4 @@
-I'm a third year computer science student and a startup enthusiast from Mexico. As of today I mainly focus on creating full-stack web application with JavaScript, but I love learning about and playing around with other languages and technologies.
+I'm a fourth-year CS student and a startup enthusiast from Mexico. I built an airbnb for event spaces in Mexico ([kisana.mx](https://kisana.mx)) and a same-day delivery platform for local stores ([pickit.mx](https://pickit.mx)).
 
 Feel free to follow me on [Twitter](https://twitter.com/SebastianCrossa) or connect over at [LinkedIn](https://www.linkedin.com/in/sebastiancrossa/).
 
